@@ -4,7 +4,7 @@
 
 
    <div> 
-     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBQ3zD3tNqC3Ae5jenDOlpK-zd66CR6nHdOg&s">
+     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBQ3zD3tNqC3Ae5jenDOlpK-zd66CR6nHdOg&s" style="width: 100px;>
       
     <div>
          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBQ3zD3tNqC3Ae5jenDOlpK-zd66CR6nHdOg&s">
