@@ -1,4 +1,11 @@
 <H3> Olá, sou o Luis Amaro, estudante do Sesi Boituva e atualmente cursando Análise e Desenvolvimento de Sistemas</H3>
+<div style="display: flex; justify-content: center; align-items: center;">
+    <div>
+        <img src="**/mnt/data/A_flat_and_simple_vector_illustration_of_the_flag_.png**" alt="Bandeira do Brasil" style="width: 20px;">
+        <p>Bandeira do Brasil</p>
+    </div>
+</div>
+
 <h6> Atleta </h6>
 <h6> SP</h6>
 
