@@ -1,4 +1,6 @@
 <H3> Olá, sou o Luis Amaro, estudante do Sesi Boituva e atualmente cursando Análise e Desenvolvimento de Sistemas</H3>
+<h6> Atleta </h6>
+<h6> SP</h6>
 
 <div style="display: inline_block"><br>
 </div>
