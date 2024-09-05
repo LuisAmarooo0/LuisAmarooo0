@@ -1,7 +1,7 @@
 <H3> Olá, sou o Luis Amaro, estudante do Sesi Boituva e atualmente cursando Análise e Desenvolvimento de Sistemas</H3>
 <div style="display: flex; justify-content: center; align-items: center;">
     <div>
-        <img src="[**/mnt/data/A_flat_and_simple_vector_illustration_of_the_flag_.png**](https://fotos.oceanob2b.com/High/042038.jpg?ims=400x)" alt="Bandeira do Brasil" style="width: 20px;">
+        <img src="https://fotos.oceanob2b.com/High/042038.jpg?ims=400x" alt="Bandeira do Brasil" style="width: 20px;">
         <p>Bandeira do Brasil</p>
     </div>
 </div>
