@@ -1,9 +1,8 @@
 <H3> Olá, sou o Luis Amaro, estudante do Sesi Boituva e atualmente cursando Análise e Desenvolvimento de Sistemas</H3>
 
    <div> 
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBQ3zD3tNqC3Ae5jenDOlpK-zd66CR6nHdOg&s">
-       <img src="https://www.stickersdevs.com.br/wp-content/uploads/2015/03/css3-stickers-adesivo.png">
-    </div>
+    <img src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBQ3zD3tNqC3Ae5jenDOlpK-zd66CR6nHdOg&s](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJrMDA2-OPSsn6Ou-iLYjrriQCKieHmh2tfw&s)">
+      
     <div>
          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBQ3zD3tNqC3Ae5jenDOlpK-zd66CR6nHdOg&s">
     </div>
