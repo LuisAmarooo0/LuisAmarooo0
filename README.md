@@ -1,13 +1,10 @@
 <H3> Olá, sou o Luis Amaro, estudante do Sesi Boituva e atualmente cursando Análise e Desenvolvimento de Sistemas</H3>
 <div style="display: flex; justify-content: center; align-items: center;">
     <div>
-        <img src="https://fotos.oceanob2b.com/High/042038.jpg?ims=400x" style="width: 20px;" <h6> SP</h6> 
+        <img src="https://fotos.oceanob2b.com/High/042038.jpg?ims=400x" style="width: 30px;" <h6> SP</h6> 
     </div>
 </div>
-
 <h6> Atleta </h6>
-<h6> SP</h6>
-
 
 <div style="display: flex; justify-content: space-around; align-items: center;">
     <div>
