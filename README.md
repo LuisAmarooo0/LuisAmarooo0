@@ -4,6 +4,7 @@
          <h6> Atleta </h6>
         <img src="https://fotos.oceanob2b.com/High/042038.jpg?ims=400x" style="width: 25px;" <h6> SP</h6> 
     </div>
+    <p></p>
 </div>
 
 <div style="display: flex; justify-content: space-around; align-items: center;">
